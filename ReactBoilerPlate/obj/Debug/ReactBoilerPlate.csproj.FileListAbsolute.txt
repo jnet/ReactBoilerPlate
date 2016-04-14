@@ -1,0 +1,5 @@
+E:\Projects\ReactBoilerPlate\ReactBoilerPlate\bin\ReactBoilerPlate.dll
+E:\Projects\ReactBoilerPlate\ReactBoilerPlate\bin\ReactBoilerPlate.pdb
+E:\Projects\ReactBoilerPlate\ReactBoilerPlate\obj\Debug\ReactBoilerPlate.dll
+E:\Projects\ReactBoilerPlate\ReactBoilerPlate\obj\Debug\ReactBoilerPlate.pdb
+E:\Projects\ReactBoilerPlate\ReactBoilerPlate\obj\Debug\ReactBoilerPlate.csprojResolveAssemblyReference.cache
