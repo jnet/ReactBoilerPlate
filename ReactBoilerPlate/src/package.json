@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "React TypeScript Boiler Plate",
+  "name": "ReactTypeScriptBoilerPlate",
   "private": true,
   "devDependencies": {
     "bootstrap": "3.3.6",
