@@ -3,7 +3,7 @@
 var webpack = require('webpack');
 
 module.exports = {
-    entry: './scripts/index.ts',
+    entry: './scripts/index.tsx',
     output: {
         filename: '../web/js/app.js',
         publicPath: '/web'
@@ -22,7 +22,8 @@ module.exports = {
     module: {
         loaders: [
           // all files with a `.ts` or `.tsx` extension will be handled by `ts-loader`
-          { test: /\.tsx?$/, loader: 'ts-loader' }
+          { test: /\.tsx?$/, loader: 'ts-loader' },
+          { test: /\.json$/, loader: 'json' },
         ]
     }
 }
